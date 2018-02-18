@@ -2,19 +2,20 @@
  * Main.java
  * Battleships
  *
- * Created by Matthew Bates on 18/02/18 17:33
- * Copyright (c) 2018. All rights reserved.
- *
- * Last modified 18/02/18 16:37
+ * Copyright Matthew Bates (c) 2018. All rights reserved.
  */
 
 package net.matthewbates.battleships;
+
+import net.matthewbates.battleships.model.GameBoard;
+
+import java.util.HashSet;
 
 class Main
 {
 
     public static void main(String[] args)
     {
-
+        GameBoard board = new GameBoard(10, 10, new HashSet<>());
     }
 }

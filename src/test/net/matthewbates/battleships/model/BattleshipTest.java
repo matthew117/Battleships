@@ -2,10 +2,7 @@
  * BattleshipTest.java
  * Battleships
  *
- * Created by Matthew Bates on 18/02/18 17:33
- * Copyright (c) 2018. All rights reserved.
- *
- * Last modified 18/02/18 16:55
+ * Copyright Matthew Bates (c) 2018. All rights reserved.
  */
 
 package net.matthewbates.battleships.model;
